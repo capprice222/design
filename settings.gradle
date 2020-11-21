@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Holy wars... The punishment due"
